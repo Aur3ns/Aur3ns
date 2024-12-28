@@ -1,64 +1,65 @@
-# 🌟 Bienvenue sur mon Profil GitHub ! 👋
+<h1 align="center">🌟 Welcome to Aur3ens portfolio 🌟</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Passionné+par+la+tech;+Étudiant+en+BTS+SIO+Option+SISR;Explorateur+de+réseaux+et+systèmes" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=%22Talk+is+cheap.+Show+me+the+code.%22+–+Linus+Torvalds" />
 </p>
 
 ---
 
 ## 🧑‍💻 À propos de moi :
-- 🎓 Étudiant en **2ème année de BTS SIO Option SISR**
-- 🖥️ Passionné par les réseaux, systèmes, et la cybersécurité.
-- ⚡ En alternance avec une expérience professionnelle en administration réseau.
-- 🎯 Actuellement, je travaille sur des projets de virtualisation et des simulations réseau.
-- 💬 **Ask me about:** réseaux, scripting Python, et bonnes pratiques en IT.
+- 🎓 Étudiant en **2ème année de BTS SIO Option SISR**  
+- 🖥️ Passionné par les réseaux, systèmes, et la cybersécurité  
+- ⚡ En alternance en tant que Technicien Systèmes et Réseau  
+- 🎯 Je crée plusieurs projets de cybersécurité et de réseau  
 
 ---
 
 ## ⚙️ Technologies & Compétences :
-- **Réseaux et systèmes :** Packet Tracer, PRTG, Stormshield, VLANs, LACP.
-- **Langages de programmation :** Python, Rust, C, Bash.
-- **Outils de virtualisation :** VirtualBox, Docker.
-- **Développement web :** HTML, CSS, JS, Nginx.
-- **Cybersécurité :** Audits, scripts de surveillance, et escalade de privilèges.
+- **Réseaux et systèmes :**  
+  Produits Cisco, PRTG, Parefeu Stormshield, Parefeu Fortinet, VLANs, Active Directory...  
+
+- **Langages de programmation :**  
+  Python, C, Bash, Powershell...  
+
+- **Outils de virtualisation :**  
+  VirtualBox, Docker, Produits VMware...  
+
+- **Web :**  
+  HTML, CSS, JS, Apache, Nginx...  
+
+- **Cybersécurité :**  
+  MITM, CVE, Développement d'exploit...  
 
 ---
 
-## 🚀 Projets en vedette :
-### 🔗 [VPN L2 & Virtual Switch (Projet Rust)](https://github.com/username/pqxdh)
-Un système de VPN de niveau 2, similaire à ZeroTier, avec un commutateur virtuel intégré pour connecter plusieurs appareils.
+## 🚀 Certains de mes projets :
 
-### 🌐 [Simulation réseau complexe](https://github.com/username/network-simulation)
-Utilisation de Packet Tracer pour concevoir et simuler des infrastructures réseau robustes avec VLANs, routage inter-VLAN et sécurité.
+### 🔗 [PQXDH](https://github.com/SkyM1raj/PQXDH)  
+Une implémentation en C du nouveau **protocole de communication Post-Quantique** produit par ***Signal***  
+
+### 🌐 [MyFirstKernel](https://github.com/SkyM1raj/MyFirstKernel)  
+Kernel écrit en C et en Assembly pour des systèmes x86. Je produirais dans les temps à venir un blog pour expliquer pas à pas comment créer son premier Kernel, tout en améliorant ce projet...  
+
+### 🔗 [Block-Spring4Shell](https://github.com/SkyM1raj/Block-Spring4Shell)  
+POC d'un pare-feu conçu pour détecter une attaque utilisant la vulnérabilité Spring4Shell (CVE-2022-22965) et la bloquer  
+
+### 🔗 [Gandalf](https://github.com/SkyM1raj/Gandalf)  
+Pare-feu ayant des capacités de filtrage par IP, par port, et par préfixe. Capacités de détection d'une attaque par ICMP ou d'ARP Spoofing  
 
 ---
 
 ## 📊 Statistiques GitHub :
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SkyM1raj&show_icons=true&theme=radical" alt="Statistiques GitHub" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkyM1raj&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🌱 Toujours en apprentissage :
-- ⚙️ Automatisation des tâches réseau avec Ansible.
-- 🔐 Techniques avancées de cybersécurité et durcissement des systèmes.
-- 📖 Études des algorithmes modernes pour l'efficacité IT.
-
----
-
-## ✨ Contact :
-- 📧 **Email :** tonEmail@example.com
-- 💼 **LinkedIn :** [linkedin.com/in/tonProfil](https://linkedin.com/in/tonProfil)
-- 🌍 **Portfolio :** [www.tonportfolio.com](https://www.tonportfolio.com)
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aur3ns&label=Vues+du+profil&color=blueviolet&style=flat" alt="Vues du profil" />
-</p>
-
----
-
-<p align="center">
-  🛠️ Créons ensemble quelque chose d'extraordinaire ! 🚀
+  Just the dreamer of the never never...
 </p>
