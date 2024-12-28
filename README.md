@@ -7,16 +7,16 @@
 ---
 
 ## 🧑‍💻 À propos de moi :
-- 🎓 Étudiant en **2ème année de BTS SIO Option SISR**  
-- 🖥️ Passionné par les réseaux, systèmes, et la cybersécurité  
+- 🎓 Étudiant en **2ème année de BTS SIO Option Solutions d'Infrastructure Systèmes et Réseaux**  
+- 🖥️ Passionné par la cybersécurité  
 - ⚡ En alternance en tant que Technicien Systèmes et Réseau  
-- 🎯 Je crée plusieurs projets de cybersécurité et de réseau  
+- 🎯 Je crée sur mon temps libre des projets de cybersécurité et de réseau  
 
 ---
 
 ## ⚙️ Technologies & Compétences :
 - **Réseaux et systèmes :**  
-  Produits Cisco, PRTG, Parefeu Stormshield, Parefeu Fortinet, VLANs, Active Directory...  
+  Produits Cisco, PRTG, Parefeu Stormshield, Parefeu Fortinet, VLANs, Active Directory, iptables, ufw...  
 
 - **Langages de programmation :**  
   Python, C, Bash, Powershell...  
