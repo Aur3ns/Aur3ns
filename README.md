@@ -32,22 +32,6 @@
 
 ---
 
-## 🚀 Certains de mes projets :
-
-### 🔗 [PQXDH](https://github.com/SkyM1raj/PQXDH)  
-Une implémentation en C du nouveau **protocole de communication Post-Quantique** produit par ***Signal***  
-
-### 🌐 [MyFirstKernel](https://github.com/SkyM1raj/MyFirstKernel)  
-Kernel écrit en C et en Assembly pour des systèmes x86. Je produirais dans les temps à venir un blog pour expliquer pas à pas comment créer son premier Kernel, tout en améliorant ce projet...  
-
-### 🔗 [Block-Spring4Shell](https://github.com/SkyM1raj/Block-Spring4Shell)  
-POC d'un pare-feu conçu pour détecter une attaque utilisant la vulnérabilité Spring4Shell (CVE-2022-22965) et la bloquer  
-
-### 🔗 [Gandalf](https://github.com/SkyM1raj/Gandalf)  
-Pare-feu ayant des capacités de filtrage par IP, par port, et par préfixe. Capacités de détection d'une attaque par ICMP ou d'ARP Spoofing  
-
----
-
 ## 📊 Statistiques GitHub :
 
 <p align="center">
