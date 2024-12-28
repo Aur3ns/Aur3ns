@@ -35,8 +35,8 @@ Utilisation de Packet Tracer pour concevoir et simuler des infrastructures rése
 
 ## 📊 Statistiques GitHub :
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonNomUtilisateur&show_icons=true&theme=radical" alt="Statistiques GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonNomUtilisateur&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SkyM1raj&show_icons=true&theme=radical" alt="Statistiques GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkyM1raj&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
