@@ -64,4 +64,3 @@
 </div>---
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aur3ns&amp;show_icons=true&amp;theme=radical" alt="Statistiques GitHub"></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aur3ns&amp;theme=radical" alt="GitHub Streak"></p>
-<p align="center">Just the dreamer of the never never...</p>
