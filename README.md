@@ -1,7 +1,12 @@
 <div align="center" style="background: linear-gradient(135deg, #1e1e1e, #3a3a3a); padding: 2em; border-radius: 1rem; box-shadow: 0 8px 16px rgba(0,0,0,0.3); margin-bottom: 2em;">
   <h1 style="font-size: 3rem; margin: 0 0 0.5em; color: #ffffff; text-shadow: 2px 2px 4px rgba(0,0,0,0.6);">🌟 Welcome to Aur3ns Portfolio 🌟</h1>
-  <p style="font-size: 1.2rem; margin: 1em 0 0; color: #dddddd; font-style: italic; opacity: 0.85;">Just the dreamer of the never never...</p>
-</div>
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=28&pause=1500&color=%23FFFFFF&width=500&lines=%22Just+the+dreamer+of+the+never+never%E2%80%A6%22"
+  alt="Just the dreamer typing effect"
+/>
+
+
+
 
 <p align="center"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&amp;logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/C-00599C?logo=c&amp;logoColor=white" alt="C"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Rust-000000?logo=rust&amp;logoColor=white" alt="Rust"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&amp;logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/XML-0060AC?logo=xml&amp;logoColor=white" alt="XML"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&amp;logoColor=white" alt="Git"></p>
 
