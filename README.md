@@ -1,9 +1,12 @@
 <div align="center" style="background: linear-gradient(135deg, #1e1e1e, #3a3a3a); padding: 2em; border-radius: 1rem; box-shadow: 0 8px 16px rgba(0,0,0,0.3); margin-bottom: 2em;">
   <h1 style="font-size: 3rem; margin: 0 0 0.5em; color: #ffffff; text-shadow: 2px 2px 4px rgba(0,0,0,0.6);">🌟 Welcome to Aur3ns Portfolio 🌟</h1>
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=28&pause=1500&color=%23FFFFFF&width=500&lines=%22Just+the+dreamer+of+the+never+never%E2%80%A6%22"
-  alt="Just the dreamer typing effect"
-/>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=28&pause=1500&color=%23FFFFFF&width=500&lines=%22Just+the+dreamer+of+the+never+never%E2%80%A6%22"
+    alt="Just the dreamer typing effect"
+  />
+</p>
+
 
 
 
